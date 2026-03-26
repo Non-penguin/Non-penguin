@@ -12,7 +12,7 @@
 
 - 🎓 Undergraduate at **School of Education, Waseda University**
 - 🏢 Interning as a **Network Infrastructure Engineer**
-- 🖥️ Strong in **server-side engineering** — Linux administration, virtualization, and backend systems
+- 🖥️ Strong in **server-side engineering** and **Network: ipv4&ipv6** — Linux administration, virtualization, Network construct and backend systems
 - 🔧 Hands-on experience with **Proxmox**, **KVM/libvirt**, and **Hyper-V** VM management
 - 🐳 Building and managing self-hosted services with **Docker** and **systemd**
 - 🦀 Learning **Rust** for systems programming (TCP servers, HTTP parsing, concurrency)
