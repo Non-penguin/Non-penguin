@@ -12,12 +12,14 @@
 
 - 🎓 Undergraduate at **School of Education, Waseda University**
 - 🏢 Interning as a **Network Infrastructure Engineer**
-- 🖥️ Strong in **server-side engineering** and **Network: ipv4&ipv6** — Linux administration, virtualization, Network construct and backend systems
+- 🖥️ Strong in **server-side engineering** — Linux administration, virtualization, and backend systems
 - 🔧 Hands-on experience with **Proxmox**, **KVM/libvirt**, and **Hyper-V** VM management
 - 🐳 Building and managing self-hosted services with **Docker** and **systemd**
 - 🦀 Learning **Rust** for systems programming (TCP servers, HTTP parsing, concurrency)
 - 🏠 Running a home lab: Proxmox cluster, GitLab, Nextcloud, NAS (QNAP), and more
-- 📡 Career goal: **Network Infrastructure Engineering**
+- 📡 Designing **IPv4 / IPv6** networks — addressing, subnetting, routing protocols (OSPF, BGP)
+- 🔀 Hands-on with **Cisco** switches and routers — VLAN, STP, ACL, IOS CLI
+- 🎯 Career goal: **Network Infrastructure Engineering**
 
 ---
 
@@ -48,8 +50,16 @@
 
 #### Backend & Storage
 <p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/iSCSI%20%2F%20NAS-0078D7?style=for-the-badge&logo=qnap&logoColor=white" />
+</p>
+
+#### Networking
+<p>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/IPv4%20%2F%20IPv6-0077B5?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+  <img src="https://img.shields.io/badge/VLAN%20%2F%20STP-6C3483?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
 #### Tools & Environment
@@ -69,7 +79,9 @@
 | **Virtualization** | Proxmox 3-node cluster, VM migrations (Hyper-V → Proxmox), Rocky Linux, initramfs/VirtIO tuning |
 | **Self-hosted Services** | GitLab (with CI/CD & backup automation), Nextcloud + PostgreSQL + Redis + Nginx |
 | **Automation** | Bash-based backup systems with systemd timers, log rotation, SSH config management |
-| **Networking** | iSCSI storage (QNAP NAS), reverse proxy (Nginx), LDAP/AD integration, RADIUS architecture design |
+| **Network Design** | IPv4/IPv6 addressing & subnetting, OSPF/BGP routing, VLAN design, STP, ACL |
+| **Cisco** | Switch & router configuration via IOS CLI, inter-VLAN routing, port security |
+| **Network Services** | iSCSI (QNAP NAS), reverse proxy (Nginx), LDAP/AD, RADIUS architecture |
 | **Systems Programming** | Rust: TCP echo servers, HTTP parsing, concurrency patterns |
 
 ---
