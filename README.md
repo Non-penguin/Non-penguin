@@ -51,7 +51,6 @@
 
 #### Backend & Storage
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/iSCSI%20%2F%20NAS-0078D7?style=for-the-badge&logo=qnap&logoColor=white" />
 </p>
